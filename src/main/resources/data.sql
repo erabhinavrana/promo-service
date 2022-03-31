@@ -1,0 +1,1 @@
+INSERT into bookstore_promo values (111, '2022-04-02', 100, 'FICTION10', 'FICTION', 10);
